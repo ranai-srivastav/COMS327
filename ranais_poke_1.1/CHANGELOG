@@ -1,0 +1,9 @@
+September 1     Started coding the 2x2 Matrix
+
+September 2     Added Poke Centers and Poke Marts
+
+Spetember 5     Tried to create a path from East wall to PokeCenters to West wall. Then From North wall to PokeMarts and then south wall
+
+September 6     Created straight paths since path creation failed
+
+September 7     Added terrain generation based on Sandpile code

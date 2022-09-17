@@ -1,0 +1,26 @@
+Welcome to Sandpile!
+
+A real life simulation where a grain of sand is dropped in the middle of a 23x23 matrix. When the
+stack size is greater than 8, i.e. 9, the pile becomes unstable and falls over onto the neighboring
+cells. This step proceeds recursively.
+
+How to call the program.
+
+	~ make
+	~ ./sandpile_Srivastav_Ranai-HW0 [--fps number>0] [y, x, h]....[y, x, h]
+
+NOTE: x,y are indexed starting from 0
+
+The code will generate a segmentation fault when:
+- the user inputs y>22, x>22
+- the user inputs an incorrect number of point such that (number of inputs % 3) != 0
+
+
+
+
+
+
+
+
+
+ :=]
