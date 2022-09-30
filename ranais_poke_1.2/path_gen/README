@@ -1,0 +1,16 @@
+Welcome to Pokemon Map generator
+
+There are a lot of features on the map:
+
+    Clearings       .       
+    Boulders        % 
+    Tall Grass      :       
+    Trees           ^
+    PokeCenter      C
+    PokeMart        M
+
+Each of these features has it's own special characteristics that will be discussed in a letr assignment.
+
+To run the code, you must first
+    ~ make
+    ~ ./map

@@ -1,0 +1,9 @@
+Welcome to Pokemon v1.2
+    To run the game, cd into the folder and run these commands
+        ~ make
+        ~ ./game
+
+    You start off on a field in the middle of a world. You can move north(n), south(s), east(e), west(w) using the
+    mentioned commands in the brackets. Additionally, you can also fly to a different part of the world using the command
+    <f  x  y> where x and y can be any number between 0 and 400.
+

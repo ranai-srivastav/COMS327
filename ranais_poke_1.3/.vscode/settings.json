@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "ios": "c",
+        "locale": "c",
+        "random": "c",
+        "world.h": "c",
+        "map": "cpp",
+        "__tree": "cpp",
+        "map.h": "c"
+    }
+}
