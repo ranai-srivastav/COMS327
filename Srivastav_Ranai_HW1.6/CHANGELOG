@@ -1,0 +1,47 @@
+September 9th       Started on the world using a Linked List
+
+September 11th      Finished implementing a Linked List which represents the world.
+                    Wrote code to initialize the Linked List and implement movement methods
+
+September 13th      Finished debugging and adding to the LinkedList implementation
+                    Realised the LinkedList implementation was really difficult, not only unnecessary
+                    Moved over to an array of pointers implementation
+                    Changed map.c to accept map_struct datatype values
+                    
+September 14th      Worked on matching up the exits
+                    Worked on Paths
+                    debugging errors with map
+
+September 20th	    Worked on Djikstras with Linked List
+
+September 22nd      Added distance generation
+
+September 25th      Fixed Path generation bugs
+
+September 27th      Added Enums
+
+September 29th      Fixed issues with ENUMS
+
+September 30th	   Added Color functionality
+
+October 1st	   Converted code so terrain and characters are seperate
+
+October 2nd      attempted to use malloc to handle dynamic allocation. Didn't work 
+
+October 2nd       Added a Linked List, changed things to fit Linked List
+
+October 5th	Fized errors with Linked List Implementation. Made LL non-generic
+
+October 6th	Got Rivals to work
+
+October 7th	Added Sentries and Hikers
+
+October 22nd	Added functionality for move from map to map
+
+October 23rd	Added functionality for flying from map to map
+
+Ovtober 24th	Converted to CPP
+
+October 25th	Converted to CPP
+
+Ovtober 27th	Added classes

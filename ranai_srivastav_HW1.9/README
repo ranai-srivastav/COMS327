@@ -1,0 +1,9 @@
+Welcome to Pokemon v1.6
+    To run the game, cd into the folder and run these commands
+        ~ make
+        ~ ./game [--numtrainers]
+
+    
+	The game only does FileIO now. You cannot play the game. On starting the program, you will be asked to input a name and if you type all, all will be output. 
+	
+	

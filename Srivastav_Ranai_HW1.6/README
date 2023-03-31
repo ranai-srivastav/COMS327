@@ -1,0 +1,11 @@
+Welcome to Pokemon v1.6
+    To run the game, cd into the folder and run these commands
+        ~ make
+        ~ ./game [--numtrainers]
+
+    
+	You can now move from map to map. The player initially spawns on the center map (200,200). The player can move one map at a time through the exits or fly to different maps using the f<x><y> command.
+	The current map position is metioned on the bottom of the screen.
+
+	
+	

@@ -1,0 +1,9 @@
+Welcome to Pokemon v1.6
+    To run the game, cd into the folder and run these commands
+        ~ make
+        ~ ./game [--numtrainers]
+
+    
+	The Game might sometimes generate the same move. this is because some moves appear more than once in the given database.
+	
+	

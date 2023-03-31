@@ -1,0 +1,10 @@
+Welcome to Pokemon v1.3
+    To run the game, cd into the folder and run these commands
+        ~ make
+        ~ ./game [--numtrainers]
+
+    
+    The game will generate multiple maps, where each map will have some character move. Currently, the (h)ikers and the (r)ivals
+    move towards the Player Character. They do not take the shortest direct path, they go around any "bad" terrain and prefer paths and clearings.
+
+	
