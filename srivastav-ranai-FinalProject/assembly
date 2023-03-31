@@ -1,0 +1,23 @@
+MOVI R0, 0x1000_A000	; where is A?
+movt R0, 0x1000_0000	
+
+			; do the same for b
+
+
+ldr r2, [r0, #0]	; get a[0] and put in r2		; question> what is the difference between mov and ldr
+str r2, [r1, #0]	; set b[0] to value of r2		; 
+ldr r2, [r0, #4]
+str r2, [r1, #4]
+
+
+
+
+MOVI R0, 0x1000_A000	; where is A?
+movt R0, 0x1000_0000
+	
+ldr r2, [r0], #4	; post decrement so get value at r0 and then incremenbt r1
+str r2, [r1], #4
+
+ldr r2, [r0], #4
+ldr r2, [r0], #4
+

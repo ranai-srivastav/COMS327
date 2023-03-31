@@ -1,0 +1,3 @@
+/home/ranai/Downloads/327/srivastav-ranai-FinalProject/cmake-build-debug/CMakeFiles/FaceSwap.dir
+/home/ranai/Downloads/327/srivastav-ranai-FinalProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ranai/Downloads/327/srivastav-ranai-FinalProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir

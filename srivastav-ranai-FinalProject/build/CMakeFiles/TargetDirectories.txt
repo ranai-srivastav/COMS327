@@ -1,0 +1,3 @@
+/home/ranai/Ranai/Fall22/COMS327/FaceSwap/build/CMakeFiles/FaceSwap.dir
+/home/ranai/Ranai/Fall22/COMS327/FaceSwap/build/CMakeFiles/edit_cache.dir
+/home/ranai/Ranai/Fall22/COMS327/FaceSwap/build/CMakeFiles/rebuild_cache.dir

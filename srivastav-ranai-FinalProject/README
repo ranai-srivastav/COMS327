@@ -1,0 +1,16 @@
+This code is trying to emulate the dog-ears filter on cpp using OpenCV. 
+
+
+Requirement
+	OpenCV	4.6.0
+	CMake	3.2.0
+
+
+Once you download all files, you compile it using CMake and run the executable.
+
+NOTE:
+	The user has to be in the bottom middle of the screen for the detection and the dog-ears to work well.
+
+
+Bibliography:
+- https://docs.opencv.org/3.4/da/d60/tutorial_face_main.html

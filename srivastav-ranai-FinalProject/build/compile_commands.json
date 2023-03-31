@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ranai/Ranai/Fall22/COMS327/FaceSwap/build",
+  "command": "/usr/bin/g++  -isystem /usr/local/include/opencv4 -g -o CMakeFiles/FaceSwap.dir/main.cpp.o -c /home/ranai/Ranai/Fall22/COMS327/FaceSwap/main.cpp",
+  "file": "/home/ranai/Ranai/Fall22/COMS327/FaceSwap/main.cpp"
+}
+]
